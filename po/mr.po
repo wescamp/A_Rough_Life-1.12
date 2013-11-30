@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_Rough_Life-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-27 19:24-0400\n"
+"POT-Creation-Date: 2013-11-30 19:08+0100\n"
 "PO-Revision-Date: 2013-05-27 19:24-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1332,10 +1332,11 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Hatrox
+#. the line below means "Curse you, you little scum! The old hag was right, you are more challenging than you look! But my friends and family will avenge me!"
 #: A_Rough_Life/scenarios/05_More_Hard_Labour.cfg:705
 msgid ""
-"Screee! Curse you, little scum! Old hag was right, you are more challenge "
-"than puny features betray. Still, I am certain I will be avenged."
+"Kaas yoo, litle skam!! Fe ol hagg was raitt, yoo moa kalenging fan yoo lokk! "
+"Butt myy fends oo famly'll auenge mee!"
 msgstr ""
 
 #. [message]: speaker=Jacques
