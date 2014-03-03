@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: A_Rough_Life-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-11-30 19:08+0100\n"
+"POT-Creation-Date: 2014-03-03 21:33+0100\n"
 "PO-Revision-Date: 2013-05-27 19:24-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -5158,7 +5158,7 @@ msgid "Signalman"
 msgstr ""
 
 #. [unit_type]: id=Signalman, race=human
-#: A_Rough_Life/units/Signalman.cfg:26
+#: A_Rough_Life/units/Signalman.cfg:24
 msgid ""
 "Signalmen are just Peasants that wield a torch. This makes them useful to "
 "illuminate their surroundings, and a cheap yet effective force to fight "
@@ -5166,7 +5166,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=fire
-#: A_Rough_Life/units/Signalman.cfg:43
+#: A_Rough_Life/units/Signalman.cfg:41
 msgid "torch"
 msgstr ""
 
